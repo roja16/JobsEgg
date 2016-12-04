@@ -1,0 +1,4 @@
+package Setup
+
+class CommonFunctions {
+}
