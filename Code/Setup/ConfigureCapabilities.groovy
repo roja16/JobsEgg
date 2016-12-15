@@ -14,5 +14,7 @@ class ConfigureCapabilities {
         options.addArguments("disable-plugins");
         options.addArguments("--disable-extensions");
         return options;
+
+
     }
 }

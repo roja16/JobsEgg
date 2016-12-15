@@ -18,7 +18,7 @@ class DriverCreation {
     public static WebDriver getEdgeDriver()
 
     {
-        System.setProperty("webdriver.edge.driver", "C:\\Program Files (x86)\\Microsoft Web Driver\\MicrosoftWebDriver.exe");
+        System.setProperty("webdriver.edge.driver", "dependencies\\MicrosoftWebDriver.exe");
         WebDriver driver=new EdgeDriver()
         return driver
     }
