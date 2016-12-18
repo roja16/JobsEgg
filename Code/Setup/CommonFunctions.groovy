@@ -52,5 +52,4 @@ class CommonFunctions {
     {
         driver.findElement(By.linkText(Constants.homepage_Pricing_linktext)).click()
     }
-
 }
